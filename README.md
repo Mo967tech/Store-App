@@ -1,6 +1,6 @@
 # store_app
 
-A new Flutter project.
+Created a Store App using RESTful Api to fetch, update and add store data with basic UI
 
 ## Getting Started
 
